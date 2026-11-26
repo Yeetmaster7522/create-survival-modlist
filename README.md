@@ -4,7 +4,7 @@ For use in my personal survival smp only, the mods are not my work.
 
 Minecraft version: 1.21.1
 
-Neoforge version: 21.1.248
+Neoforge version: 21.1.259
 
 ---
 
